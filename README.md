@@ -1,6 +1,6 @@
 # facebook_timezones [![PyPI version](https://badge.fury.io/py/facebook-timezones.svg)](https://badge.fury.io/py/facebook-timezones)
 
-> A simple library that contains helpers for using timezones in the Facebook Graph API.
+> A simple Python library that contains helpers for using Facebook timezones in the Facebook Graph API.
 
 Developed in [Selectom](https://www.selectom.com).
 
