@@ -2,7 +2,7 @@
 
 > A simple Python library that contains helpers for using Facebook timezones in the Facebook Graph API.
 
-Developed in [Selectom](https://www.selectom.com).
+Developed in [Mayple](https://www.mayple.com).
 
 ## Install
 
@@ -19,7 +19,7 @@ pip install facebook_timezones
 
 ## Contributing
 
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/selectom/facebook_timezones/issues/new).
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/mayple/facebook_timezones/issues/new).
 
 ## Author
 
