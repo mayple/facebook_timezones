@@ -13,7 +13,7 @@ pip install facebook_timezones
 ### What does it contain?
 
 * Lookup tables (dict) between timezone IDs, timezone codes and timezone names.
-  Based on https://developers.facebook.com/docs/marketing-api/reference/ad-account/timezone-ids/v2.12
+  Based on https://developers.facebook.com/docs/marketing-api/reference/ad-account/timezone-ids/v7.0
 * `timezoneNameFromTimezoneOffset()` to get a timezone name based on the Facebook User `timezone` field.
   Based on https://developers.facebook.com/docs/graph-api/reference/v2.12/user
 

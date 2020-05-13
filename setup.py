@@ -7,7 +7,7 @@ from setuptools import setup
 
 here = path.abspath(path.dirname(__file__))
 
-version = '0.1'
+version = '0.2'
 
 # Get the long description from the README file
 with open(path.join(here, 'README.md'), encoding='utf-8') as f:
@@ -21,9 +21,9 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',  # Optional (see note above)
     author='Alon Diamant',
-    author_email='alon@selectom.com',
-    url='https://github.com/selectom/facebook_timezones',
-    download_url='https://github.com/selectom/facebook_timezones/archive/{}.tar.gz'.format(version),
+    author_email='alon@mayple.com',
+    url='https://github.com/mayple/facebook_timezones',
+    download_url='https://github.com/mayple/facebook_timezones/archive/{}.tar.gz'.format(version),
     keywords=['facebook', 'graph api', 'timezone', 'timezones', 'facebook timezones', 'marketing api'],
     license='MIT',
     classifiers=[  # look here https://pypi.python.org/pypi?%3Aaction=list_classifiers
